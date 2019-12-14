@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# vc6.0
+*.obj
+*.pch
+Debug/
+Release/
